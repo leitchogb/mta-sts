@@ -1,0 +1,8 @@
+version: STSv1
+mode: enforce
+mx: aspmx.l.google.com
+mx: alt1.aspmx.l.google.com
+mx: alt1.aspmx.2.google.com
+mx: alt1.aspmx.3.google.com
+mx: alt1.aspmx.3.google.com
+max_age: 86400
